@@ -1,0 +1,4 @@
+Quando você gostaria de usar um repositório remoto em vez de manter todo o seu trabalho local?
+Quando quisesse compartilhar o codigo com outros usuarios, quando tivesse dúvidas, quando todo um time participasse do trabalho,
+queando eu quisesse acessar o projeto fonte de outros computadores.
+
