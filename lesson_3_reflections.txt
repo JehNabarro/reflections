@@ -4,3 +4,8 @@ queando eu quisesse acessar o projeto fonte de outros computadores.
 
 Por que você pode querer sempre extrair as alterações manualmente em vez de manter o Git automaticamente atualizado com o seu repositório remoto?
 Pois o projeto pode não estar pronto para ir para novos integrantes.
+
+
+Descreva as diferenças entre forks, clones, and branches. Quando você usaria um em vez de outro?
+Forks são entre contas no GitHub, clones são entre pastas locais e pastas e GitHub e Branches são tantos nas locais como no GitHub e se usa para realizar novas alterações.
+
