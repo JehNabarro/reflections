@@ -2,3 +2,5 @@ Quando você gostaria de usar um repositório remoto em vez de manter todo o seu
 Quando quisesse compartilhar o codigo com outros usuarios, quando tivesse dúvidas, quando todo um time participasse do trabalho,
 queando eu quisesse acessar o projeto fonte de outros computadores.
 
+Por que você pode querer sempre extrair as alterações manualmente em vez de manter o Git automaticamente atualizado com o seu repositório remoto?
+Pois o projeto pode não estar pronto para ir para novos integrantes.
