@@ -5,3 +5,23 @@ Cria uma pasta vazia e oculta do git, para começar a criar commits.
 
 Como a área de preparação é diferente do diretório de trabalho e do repositório? Qual valor você acha que oferece?
 A area de trabalho oferece uma liberdade maior de tentar sabendo que se pode voltar ao arquivo anteior antes de juntar...
+
+
+Como você pode usar a área de preparação para garantir que você tenha um commit por alteração lógica?
+A area de preparação ajuda a selecionar mais de um arquivo que tenha relação com a alteração, para assim manter a lógica.
+
+
+Quais são algumas situações em que os banches seriam úteis para manter seu histórico organizado? Como os branches ajudariam?
+Implemetações novas, testar funcionalidades, testar novas liguagens e etc...
+
+Como os diagramas ajudam você a visualizar a estrutura da ramificação?
+Os diagramas servem para exemplificar a estrutura dando a ela uma solidificação e nomes.
+
+Qual é o resultado da fusão de dois ramos juntos? Por que representamos isso no diagrama da maneira como fazemos?
+A junção das partes adicionadas mais as partes inalteradas.. Para o entendimento ficar mais facil.
+
+Quais são os prós e contras da fusão automática do Git e versos realizando mesclagens manualmente?
+Na versão automatica os margens alterados se fudem e senão tratarem da mesma coisa então ocorre perfeitamente, já na versão manual acontece quando ha conflito como uma alteração no mesmo arquivo..
+
+
+
