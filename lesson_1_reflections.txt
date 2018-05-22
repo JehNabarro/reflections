@@ -1,0 +1,30 @@
+
+Como o acesso fácil a todo o histórico de um arquivo pode torná-lo um programador mais eficiente a longo prazo?
+
+Podendo analisar códigos antigos e tendo acessos a eles podemos ver a evolução e o que ha para melhorar, alem de ter o controle sobre possiveis erros.
+
+
+
+O que você acha que são os prós e contras de escolher manualmente quando criar um commit, como você faz no Git, contra versões salvas automaticamente, como o Google Docs faz?
+
+Acredito que os pros são, primeiro que fica mais facil de entender cada commit por causa da possibilidade de comentarios e da logica para grava cada um, mas tem a possibilidade de esquecer ou usar uma logica confusa que contam pontos para versões que gravam automaticamente.
+
+
+
+Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+
+Porque a programação interliga arquivos, de forma que um depende do outro. Já o Google Docs não trabalha da mesma forma pois seus arquivos são mais independentes. 
+
+
+
+Como você pode usar os comandos git log e git diff para ver o histórico dos arquivos?
+
+Git log mostra todos os commits e Git Diff compara as principais diferenças entre esses aquivos...
+
+
+
+Como o uso do controle de versão pode torná-lo mais confiante para fazer alterações que podem quebrar alguma coisa?
+
+Poder navegar entre as versões e voltar para verificar qual foi o bug deixa muito mais confiante para inserir alterações.
+
+
