@@ -1,0 +1,7 @@
+O que acontece quando você inicializa um repositório? Por que você precisa fazer isso?
+Cria uma pasta vazia e oculta do git, para começar a criar commits.
+
+
+
+Como a área de preparação é diferente do diretório de trabalho e do repositório? Qual valor você acha que oferece?
+A area de trabalho oferece uma liberdade maior de tentar sabendo que se pode voltar ao arquivo anteior antes de juntar...
